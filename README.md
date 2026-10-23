@@ -14,7 +14,7 @@ The goal is to identify key factors influencing customer decisions and repeat pu
 
 🎯 Business Problem
 
-How can the company leverage consumer shopping data to:
+How can the company leverage consumer shopping data to
 
 Identify trends
 Improve customer engagement
